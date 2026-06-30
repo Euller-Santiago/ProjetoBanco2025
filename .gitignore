@@ -1,0 +1,67 @@
+# =========================
+# VISUAL STUDIO
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+
+# =========================
+# BUILD / COMPILAÇÃO
+# =========================
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+
+
+# =========================
+# ARQUIVOS COMPILADOS
+# =========================
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+
+
+# =========================
+# NUGET
+# =========================
+packages/
+*.nupkg
+
+# Não ignorar arquivos importantes do NuGet
+!packages.config
+
+
+# =========================
+# CONFIGURAÇÕES SENSÍVEIS
+# =========================
+.env
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+
+# =========================
+# SISTEMA OPERACIONAL
+# =========================
+Thumbs.db
+desktop.ini
+.DS_Store
+
+
+# =========================
+# ARQUIVOS COMPACTADOS
+# =========================
+*.zip
+*.rar
+*.7z
