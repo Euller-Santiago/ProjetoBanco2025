@@ -1,6 +1,6 @@
 # ProjetoBanco2025 - EG ACADEMY
 
-Sistema desktop desenvolvido em **C# Windows Forms** para gerenciamento de alunos de uma academia, com integração a banco de dados **MySQL/MariaDB**.
+Sistema desktop desenvolvido em **C# Windows Forms** para gerenciamento de alunos de uma academia, com integração a banco de dados local via **XAMPP/phpMyAdmin**.
 
 ## Descrição
 
