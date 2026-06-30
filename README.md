@@ -132,23 +132,6 @@ pwd='';
 
 6. Compile e execute o projeto pelo Visual Studio.
 
-## Observações sobre versionamento
-
-Antes de publicar o projeto no GitHub, recomenda-se não enviar arquivos gerados automaticamente pelo Visual Studio, como:
-
-```text
-.vs/
-bin/
-obj/
-packages/
-*.user
-*.suo
-*.exe
-*.dll
-Thumbs.db
-```
-
-Também é recomendado evitar o envio de dados sensíveis ou dados pessoais reais no arquivo SQL.
 
 ## Status do projeto
 
@@ -156,4 +139,4 @@ Projeto desenvolvido para fins acadêmicos, com foco no aprendizado de C#, Windo
 
 ## Autor
 
-Desenvolvido por **SEU NOME**.
+Desenvolvido por **EULLER SANTIAGO**.
